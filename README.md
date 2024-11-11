@@ -1,9 +1,9 @@
 
-# Royal Kludge G68 Linux Driver
+# Royal Kludge G68 Linux Utility
 
 ## Overview
 
-This project aims to create a Linux driver for the Royal Kludge G68 mechanical keyboard, specifically designed for users like myself who daily drive Linux (ArchLinux btw). The keyboard lacks official Linux support, prompting the need for a custom driver.
+This project aims to create a Linux utility for the Royal Kludge G68 mechanical keyboard, specifically designed for users like myself who daily drive Linux (ArchLinux btw). The keyboard utility lacks official Linux support, prompting the need for a custom utility.
 
 ## Features
 
